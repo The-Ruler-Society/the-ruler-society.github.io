@@ -9,28 +9,30 @@ The Application does not directly collect any information for its basic function
 
 This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this application, possibly based on user interests.
 
-Google AdMob may use cookies to identify users and they may use the behavioral retargeting technique, i.e. displaying ads tailored to the user's interests and behavior, including those detected outside this application. For more information, please read:
+Google AdMob may use cookies to identify users and they may use the behavioral retargeting technique, i.e. displaying ads tailored to the user’s interests and behavior, including those detected outside this application. For more information, please read:
 
-- Google's opt-out of customized advertising:
+- Google’s opt-out of customized advertising:
     - https://adssettings.google.com
-- Google's Privacy Policies:
+- Google’s Privacy Policies:
     - https://policies.google.com/privacy
     - https://policies.google.com/technologies/partner-sites
 
 #### AdMob (AdMob Google Inc.)
 
-AdMob is an advertising service provided by AdMob Google Inc.
-Personal Data collected: Cookies and Usage data.
-Place of processing: US - Privacy Policy.
+AdMob is an advertising service provided by AdMob Google Inc.  
+Personal Data collected: Cookies and Usage data.  
+Place of processing: US - Privacy Policy.  
 
 ## Data Stored on Your Device
 
-When you use the Application, data including (but not limited to) the
-following may be stored on your device.
+When you use the Application, data including (but not limited to) the following may be stored on your device:
 
 - Application preferences.
 - Images with custom messages created by the user.
 - A cache of previously viewed images.
+- Edited images from your personal device.
+
+All image edits are processed and stored locally on your device. The Application does not collect, transmit, or store any of these images externally, nor any source image input by the user.
 
 ## Changes
 
